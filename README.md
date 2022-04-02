@@ -1,8 +1,3 @@
-A Dictionary of Kagome v2
-===
-
-A dictionary package of [kagome v2](http://github.com/zeroichiio/kagome/tree/v2). This software includes a binary and/or source version of data from
-
 * mecab-ipadic-2.7.0-20070801
 
 which can be obtained from
